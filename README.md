@@ -1,2 +1,2 @@
-- [Preview](https://github.com/misha-lysak/my-project)
+- [Preview](https://misha-lysak.github.io/my-project/)
 - [Pull Request](https://github.com/misha-lysak/my-project/pull/1/files)
